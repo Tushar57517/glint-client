@@ -9,7 +9,7 @@ function Hero() {
     <>
       <div className="w-full h-screen flex items-center justify-between pl-10 pr-10">
         <div className="flex flex-col justify-start items-start gap-7">
-          <Button>request a demo.<FontAwesomeIcon icon={faArrowRight} /></Button>
+          <Button>Talk to the founder.<FontAwesomeIcon icon={faArrowRight} /></Button>
           <div className="flex flex-col">
             <p className="text-7xl font-semibold text-brandgray tracking-tight mb-4">Stop coding</p>
             <p className="text-7xl font-semibold text-brandgray tracking-tight mb-5">boring portfolios.</p>
